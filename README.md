@@ -11,3 +11,6 @@ Key Concepts:
 3) Use Seaborn to create a scatterplot graph.
 4) Create a Jointplot to show distribution.
 5) Create a heatmap to show correlations and distributions.
+
+
+Great thanks to the course instructor: Dave Dalsveen
